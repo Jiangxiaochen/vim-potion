@@ -1,1 +1,11 @@
-doc for potion.
+*potion.txt* functionality for the potion programming language
+					._  __|_o _ ._
+					|_)(_)|_|(_)| |
+					|
+Author:         Jiang xiaochen <jiangxch1@163.com>
+Licence:        Vim licence, see |license|
+Homepage:       https://github.com/Jiangxiaochen/vim-potion
+Version:        0.1
+
+Functionality for the Potion programming language.
+Includes syntax highlighting, code folding, and more!
